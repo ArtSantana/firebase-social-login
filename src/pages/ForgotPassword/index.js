@@ -2,10 +2,10 @@ import React from 'react';
 import { View, Text } from 'react-native';
 import styles from './style';
 
-export default function SignUp() {
+export default function ForgotPassword() {
   return (
     <View style={styles.content}>
-      <Text>Home screen</Text>
+      <Text>ForgotPassword Screen</Text>
     </View>
   )
 }
